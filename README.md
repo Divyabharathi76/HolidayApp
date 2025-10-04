@@ -101,10 +101,4 @@ HolidayApp/
 - Logging is handled using ILogger<HolidaysController>
 - Writes to console by default
 
-## Author
-- Divyabharathi
-- 📧 [divyashankar1964@gmail.com]
-- 🌐 [GitHub Profile](https://github.com/Divyabharathi76/HolidayApp)
-
-
 ## 🎄 HolidayApp – A clean, production-ready .NET API for managing and analyzing holidays.
