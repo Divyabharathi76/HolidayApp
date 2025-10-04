@@ -52,6 +52,7 @@ CREATE TABLE Holidays (
 
 Open your browser and go to:
 👉 http://localhost:5271/swagger
+*(Note: The port may differ depending on your environment or launch settings. Check your console output or `launchSettings.json` for the correct URL.)*
 
 You can test all endpoints directly from Swagger UI.
 
